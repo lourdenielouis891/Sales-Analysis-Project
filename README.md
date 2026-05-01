@@ -36,3 +36,13 @@ The Look E-commerce Dataset (BigQuery Public Dataset)
  💡 Future Improvements
 - Add more advanced analysis (customer segmentation)
 - Build interactive dashboard (Tableau or Power BI)
+
+
+
+## 👤 Author
+*Lourdenie Louis*  
+Aspiring Data Analyst | SQL | Data Visualization  
+📍 Orlando, FL  
+🔗 https://github.com/lourdenielouis891
+
+ 
