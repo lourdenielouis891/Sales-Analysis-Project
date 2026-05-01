@@ -21,9 +21,9 @@ Analyze e-commerce sales data to identify trends, top products, and high-perform
 
  📸 Project Screenshots
 
-![Monthly Sales Trend](Screenshot 2026-04-30 214925.png)
+![Monthly Sales Trend](Screenshot%2026-04-30%214925.png)
 
-![Revenue by Country](Screenshot 2026-04-30 215155.png)
+![Revenue by Country](Screenshot%2026-04-30%215155.png)
 
  🗂️ Dataset
 The Look E-commerce Dataset (BigQuery Public Dataset)
