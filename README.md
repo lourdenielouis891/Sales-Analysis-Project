@@ -1,9 +1,13 @@
  📊 Sales Analysis Project
 
-This project analyzes e-commerce sales data using SQL in Google BigQuery to uncover trends, top-performing products, and key markets.
+This project analyzes e-commerce sales data using SQL in Google BigQuery to uncover trends, top-performing products, and high-revenue markets.
 
  📌 Objective
-Analyze e-commerce sales data to identify trends, top products, and high-performing markets.
+Analyze sales data to: 
+- identify monthly sales trends
+- Determine top-performing countries
+- Discover best-selling products
+- Analyze customer distribution and revenue by country
 
  🛠️ Tools Used
 - SQL (Google BigQuery)
@@ -13,6 +17,7 @@ Analyze e-commerce sales data to identify trends, top products, and high-perform
 - Sales show a consistent upward trend over time.
 - China and the United States generate the highest revenue.
 - Top-selling products contribute significantly to overall revenue.
+- Reveneue is concentrated in a few key countries, indicating strong geographic markets.
 
  📈 Visualizations
 - Monthly Sales Trend
@@ -30,4 +35,4 @@ The Look E-commerce Dataset (BigQuery Public Dataset)
 
  💡 Future Improvements
 - Add more advanced analysis (customer segmentation)
-- Build dashboard (Tableau or Power BI)
+- Build interactive dashboard (Tableau or Power BI)
