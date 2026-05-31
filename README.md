@@ -2,6 +2,11 @@
 
 This project analyzes e-commerce sales data using SQL in Google BigQuery to uncover trends, top-performing products, and high-revenue markets.
 
+## ❓ Business Question
+Which markets and products drive the most 
+e-commerce revenue, and how has performance 
+trended over time?
+
 ## 📌 Objective
 Analyze sales data to: 
 - identify monthly sales trends
@@ -14,10 +19,15 @@ Analyze sales data to:
 - Data Visualization
 
 ## 📊 Key Insights
-- Sales show a consistent upward trend over time.
-- China and the United States generate the highest revenue.
-- Top-selling products contribute significantly to overall revenue.
-- Reveneue is concentrated in a few key countries, indicating strong geographic markets.
+- Total revenue of **$2,697,467.91** generated 
+  from **45,532** completed orders
+- Sales show a consistent upward trend over time,
+  with significant growth in 2024-2025
+- China and the United States generate the highest revenue
+- Top-selling products contribute significantly 
+  to overall revenue
+- Revenue is concentrated in a few key countries,
+  indicating strong geographic markets
 
 ## 📈 Visualizations
 - Monthly Sales Trend
